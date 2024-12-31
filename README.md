@@ -1,7 +1,6 @@
 ![image](https://github.com/user-attachments/assets/80bcbb59-4607-4f10-b81f-fe78a566d738)
 
-ChatGPT said:
-ChatGPT
+
 Gemineye: Transforming Luxury Jewelry Pricing with Machine Learning
 Gemineye, a global leader in luxury jewelry, is renowned for its unparalleled craftsmanship, premium quality, and cutting-edge innovation. As a trailblazer in bespoke jewelry sales and customer service excellence, Gemineye caters to a diverse clientele seeking elegance and exclusivity. Despite its dominance in the market, the company’s pricing strategies have long relied on manual adjustments, resulting in missed opportunities to optimize revenue and meet dynamic market demands.
 
